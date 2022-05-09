@@ -1,0 +1,7 @@
+NAMING RULE : YEAR-MONTH-DAY-title.md
+
+Please Note
+
+YAML : https://yaml.org/
+Liquid 문법 : https://shopify.github.io/liquid/
+Jekyll 폴더구조 : https://jekyllrb-ko.github.io/docs/structure/
