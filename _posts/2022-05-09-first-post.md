@@ -20,7 +20,7 @@ tags:
 
 오늘도 밍기적 거리다 원하는 스킨을 세팅하는중 서버를 껐다 켰다하는것이 불편해 liveReload라는 기능을 찾았다.
 
-`bundle exec serve --liveReload`
+`bundle exec jekyll serve --liveReload`
 
 근데 왜 리로드가 안되는거지..?
 

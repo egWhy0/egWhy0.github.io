@@ -70,6 +70,12 @@ algolia:
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
+
+# 다크 모드 토글 기능 추가
+dark_theme_toggle        : true 
+after_footer_scripts     :
+  - /assets/js/custom/dark-theme.js
+
 # SEO Related
 google_site_verification :
 bing_site_verification   :
@@ -148,7 +154,6 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-
 
 # Reading Files
 include:
@@ -288,3 +293,5 @@ defaults:
       comments: # true
       share: true
       related: true
+      sidebar:
+        nav: "docs"
